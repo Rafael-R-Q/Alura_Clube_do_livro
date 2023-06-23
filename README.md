@@ -1,5 +1,3 @@
-<h1 align="center"> Clube do livro </h1>
-
 <p align="center">
   <img src="Logo/Logo_club_do_livro-removebg-preview.png">
 </p>
